@@ -1,4 +1,4 @@
-package com.erickindiogoporto.AtvPratica.model;
+package com.erickin.AtvPratica.model;
 
 import jakarta.persistence.*;
 

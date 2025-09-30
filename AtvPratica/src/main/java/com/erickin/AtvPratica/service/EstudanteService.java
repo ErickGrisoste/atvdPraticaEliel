@@ -1,7 +1,7 @@
-package com.erickindiogoporto.AtvPratica.service;
+package com.erickin.AtvPratica.service;
 
-import com.erickindiogoporto.AtvPratica.model.EstudanteModel;
-import com.erickindiogoporto.AtvPratica.repository.EstudanteRepository;
+import com.erickin.AtvPratica.model.EstudanteModel;
+import com.erickin.AtvPratica.repository.EstudanteRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 

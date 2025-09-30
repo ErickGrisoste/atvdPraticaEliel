@@ -1,4 +1,4 @@
-package com.erickindiogoporto.AtvPratica;
+package com.erickin.AtvPratica;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
